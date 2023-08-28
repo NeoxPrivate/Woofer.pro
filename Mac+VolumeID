@@ -1,0 +1,89 @@
++ Set-NetAdapter -Name Ethernet -MacAddress 00-20-A7-8B-AA-A1 -confirm: ...
++ ~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Ethernet:String) [Set-NetAdapter], CimJobException
+    + FullyQualifiedErrorId : CmdletizationQuery_NotFound_Name,Set-NetAdapter
+
+Set-NetAdapter : A positional parameter cannot be found that accepts argument '1'.
+At line:1 char:1
++ Set-NetAdapter -Name Ethernet 1 -MacAddress 00-20-A7-8B-AA-A1 -confir ...
++ ~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Set-NetAdapter], ParameterBindingException
+    + FullyQualifiedErrorId : PositionalParameterNotFound,Set-NetAdapter
+
+Set-NetAdapter : A positional parameter cannot be found that accepts argument '2'.
+At line:1 char:1
++ Set-NetAdapter -Name Ethernet 2 -MacAddress 00-20-A7-8B-AA-A1 -confir ...
++ ~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Set-NetAdapter], ParameterBindingException
+    + FullyQualifiedErrorId : PositionalParameterNotFound,Set-NetAdapter
+
+Set-NetAdapter : A positional parameter cannot be found that accepts argument '3'.
+At line:1 char:1
++ Set-NetAdapter -Name Ethernet 3 -MacAddress 00-20-A7-8B-AA-A1 -confir ...
++ ~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Set-NetAdapter], ParameterBindingException
+    + FullyQualifiedErrorId : PositionalParameterNotFound,Set-NetAdapter
+
+Set-NetAdapter : A positional parameter cannot be found that accepts argument '4'.
+At line:1 char:1
++ Set-NetAdapter -Name Ethernet 4 -MacAddress 00-20-A7-8B-AA-A1 -confir ...
++ ~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Set-NetAdapter], ParameterBindingException
+    + FullyQualifiedErrorId : PositionalParameterNotFound,Set-NetAdapter
+
+Set-NetAdapter : A positional parameter cannot be found that accepts argument '5'.
+At line:1 char:1
++ Set-NetAdapter -Name Ethernet 5 -MacAddress 00-20-A7-8B-AA-A1 -confir ...
++ ~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Set-NetAdapter], ParameterBindingException
+    + FullyQualifiedErrorId : PositionalParameterNotFound,Set-NetAdapter
+
+
+VolumeId v2.1 - Set disk volume id
+Copyright (C) 1997-2016 Mark Russinovich
+Sysinternals - www.sysinternals.com
+
+usage: volumeid [drive:] [Id]
+ -nobanner      Do not display the startup banner and copyright message.
+
+Id must be in the following hexadecimal format: xxxx-xxxx
+
+Note: new NTFS volume ids will not appear in directory listings until after the
+next reboot.
+
+
+VolumeId v2.1 - Set disk volume id
+Copyright (C) 1997-2016 Mark Russinovich
+Sysinternals - www.sysinternals.com
+
+usage: volumeid [drive:] [Id]
+ -nobanner      Do not display the startup banner and copyright message.
+
+Id must be in the following hexadecimal format: xxxx-xxxx
+
+Note: new NTFS volume ids will not appear in directory listings until after the
+next reboot.
+
+
+VolumeId v2.1 - Set disk volume id
+Copyright (C) 1997-2016 Mark Russinovich
+Sysinternals - www.sysinternals.com
+
+usage: volumeid [drive:] [Id]
+ -nobanner      Do not display the startup banner and copyright message.
+
+Id must be in the following hexadecimal format: xxxx-xxxx
+
+Note: new NTFS volume ids will not appear in directory listings until after the
+next reboot.
+
+
+VolumeId v2.1 - Set disk volume id
+Copyright (C) 1997-2016 Mark Russinovich
+Sysinternals - www.sysinternals.com
+
+Volume ID for drive C: updated to 9afe-23a9
+
+VolumeId v2.1 - Set disk volume id
+Copyright (C) 1997-2016 Mark Russinovich
+Sysinternals - www.sysinternals.com
